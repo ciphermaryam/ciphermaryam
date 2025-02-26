@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hey there, I'm Maryam!  
 
-<!--
-**ciphermaryam/ciphermaryam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 *Tech Enthusiast | DevOps | Cybersecurity*  
+💻 Passionate about Linux, automation, and a little bit of ethical hacking.  
+🔍 Exploring cloud computing, scripting, and security tools.  
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack & Tools  
+- *Operating Systems:* Linux (Ubuntu, CentOs, Parrot OS), Windows  
+- *Languages:* Python, Bash, a little bit of html/js/css 
+- *Tools:* Git, Docker, Kubernetes, Ansible  
+- *Security:* Ethical Hacking, Cryptography  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 *Let's Connect:*  
+[LinkedIn]([your-link](https://www.linkedin.com/in/maryam-safi-38b284337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ))
+[GitHub](your-github-link)
+[Instagram](https://www.instagram.com/terminaltycoon?igsh=MTJiZGxqY3I1d3Rrag%3D%3D&utm_source=qr)
