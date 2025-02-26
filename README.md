@@ -11,5 +11,5 @@
 - *Security:* Ethical Hacking, Cryptography  
 
 📫 *Let's Connect:*  
-[LinkedIn]([your-link](https://www.linkedin.com/in/maryam-safi-38b284337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )
+[LinkedIn](https://www.linkedin.com/in/maryam-safi-38b284337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )
 [Instagram](https://www.instagram.com/terminaltycoon?igsh=MTJiZGxqY3I1d3Rrag%3D%3D&utm_source=qr)
